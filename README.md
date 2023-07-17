@@ -16,7 +16,7 @@ TODO: Include citation for the article.
 
 `data-raw`
 
-Contains the human labelled articles. 
+Contains the human-labelled articles. 
 
 `munge`
 
